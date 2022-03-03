@@ -1,1 +1,1 @@
-Project root directory that contains project files
+Project root directory containing project files
